@@ -8,7 +8,7 @@ Spotify-stats is a program for getting statistics such as favorite music lists a
 
 1. Click button below to quick deploy and then fill in the form given
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vermaysha/spotify-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/wavyflow/spotify-stats)
 
 2. After deploy successfully click **Continue to Dashboard**
   <div><img src="https://i.imgur.com/dvizZZT.png"/></div>
